@@ -44,7 +44,7 @@ Default is all, which show all the node
 ## Project status
 
 - [x] Define requirement
-- [ ] Make sample dataset PMP
+- [x] Make sample dataset PMP
 - [ ] Development
 - [ ] Test
 - [ ] put into production
